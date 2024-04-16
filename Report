@@ -1,0 +1,10 @@
+Project Goals:
+The goal of this project is to create a python application that provides the user with information on the distance rehabilitation centers are to the users current locaation. To achieve this, the application will need to collect the user's location input, through manual entry. It will then retrieve data on the locations of rehabilitation centers, from a pre-existing dataset. Next, the application will calculate the distance between the user's location and each rehabilitation center using geospatial calculations, such as the Haversine formula, calculating distances between two points on the Earth's surface. The distances will be presented to the user in a user-friendly format, along with any additional information about each center, such as contact details and services offered. The application will focus on scalability, accuracy, and user privacy to ensure a reliable and secure user experience.
+
+Significance of the project: 
+This project is significant for individuals struggling with drug abuse as it provides them with easy access to information about nearby rehabilitation centers. Many individuals facing drug abuse may not be aware of the resources available to them or may find it challenging to locate rehabilitation centers in their area. By simplifying the process of finding these centers and providing information on their proximity, the application can help individuals take the crucial step towards seeking help and beginning their journey to recovery. The project can promote early intervention and support individuals in accessing timely care, which is essential for improving treatment outcomes and reducing the negative impact of drug abuse on individuals and communities.
+
+
+
+
+
